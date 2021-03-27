@@ -1,0 +1,1 @@
+Here is the result : Hello This is first txt, Hello this is second text
